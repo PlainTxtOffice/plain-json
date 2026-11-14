@@ -1,0 +1,76 @@
+Plain JSON
+Copyright (c) 2026 Plain Text Office LLC. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+1. Ownership
+
+This repository and everything in it, including source code, documentation,
+icons, screenshots, and other assets (the "Software"), is the proprietary
+property of Plain Text Office LLC (the "Company") and is protected by
+copyright and other intellectual property laws. The Software is licensed, not
+sold. The Company keeps all rights that this license does not expressly grant.
+
+2. Permitted use
+
+The Software is made available so that you can read it. You may view the
+Software and download a copy solely for your own personal, non-commercial
+reference and evaluation.
+
+3. Restrictions
+
+Unless you have prior written permission from the Company, you may not:
+
+  a. copy, reproduce, or redistribute the Software, in whole or in part,
+     except as section 2 allows;
+  b. modify, adapt, translate, or create derivative works of the Software;
+  c. build, compile, package, or distribute applications made from the
+     Software, in source or binary form;
+  d. sell, rent, lease, sublicense, or otherwise use the Software for
+     commercial purposes;
+  e. remove, bypass, or interfere with any licensing, payment, or access
+     control in the Software or in applications built from it;
+  f. remove or alter any copyright, trademark, or other proprietary notice;
+  g. use the names "Plain JSON" or "Plain Text Office", or the Company's
+     logos and icons, in a way that suggests endorsement or affiliation.
+
+4. Published applications
+
+This license covers the contents of this repository. It does not limit your
+use of a copy of the Plain JSON application that you obtained lawfully from
+the Company or an authorized store. That use is governed by the terms under
+which the application was provided to you.
+
+5. Contributions
+
+The Company does not grant any rights in exchange for suggestions, bug
+reports, or other feedback. If you send feedback, the Company may use it
+without restriction and without obligation to you.
+
+6. Third-party components
+
+The Software may include or depend on third-party components that are
+licensed under their own terms. Those terms govern the third-party
+components, and nothing in this license restricts rights you have under them.
+
+7. Termination
+
+Your rights under this license end automatically if you breach it. When they
+end, you must stop using the Software and destroy every copy you hold.
+
+8. Disclaimer of warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+9. Limitation of liability
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY IS NOT LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+10. Contact
+
+For permission requests or licensing questions, write to
+support@plaintxtoffice.com.
